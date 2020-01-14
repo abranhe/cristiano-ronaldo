@@ -7,7 +7,7 @@
 	"author": {
 		"name": "Abraham Hernandez",
 		"email": "abraham@abranhe.com",
-		"url": "abranhe.com"
+		"url": "https://abranhe.com"
 	},
 	"engines": {
 		"node": ">=8"
@@ -20,7 +20,12 @@
 		"index.d.ts"
 	],
 	"keywords": [
-		""
+		"cr7",
+		"cristiano",
+		"ronaldo",
+		"cristiano-ronaldo",
+		"soccer",
+		"football"
 	],
 	"dependencies": {
 		"got": "^10.2.2"
